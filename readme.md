@@ -12,3 +12,5 @@ Related Documentation:
 * [Cheerio Docs](https://github.com/cheeriojs/cheerio)
 * [Request Docs](https://www.npmjs.com/package/request)
 * [Async Docs](https://github.com/caolan/async)
+
+This lesson scrapes content from [Visit Seattle](https://www.visitseattle.org/things-to-do/neighborhoods/).
