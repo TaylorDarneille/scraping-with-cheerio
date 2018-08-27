@@ -4,8 +4,6 @@
 ###### Final code corresponding to the web-scraping lesson for General Assembly's Web Development Immersive.
 ***
 
-
-
 Run this program via command line:
 
 ```node index.js```
