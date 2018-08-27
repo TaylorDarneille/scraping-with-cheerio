@@ -11,6 +11,7 @@ request('https://www.visitseattle.org/things-to-do/neighborhoods/', function(err
 			link: $(element).find('a').attr('href')
 		}
 	}).get();
+	console.log(neighborhoods);
 	fetchDescriptions(neighborhoods);
 });
 
