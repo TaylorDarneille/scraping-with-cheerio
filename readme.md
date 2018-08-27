@@ -5,5 +5,7 @@
 ***
 
 [Cheerio Docs](https://github.com/cheeriojs/cheerio)
+
 [Request Docs](https://www.npmjs.com/package/request)
+
 [Async Docs](https://github.com/caolan/async)
